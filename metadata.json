@@ -1,0 +1,10 @@
+{
+  "name": "BOMB Token",
+  "symbol": "BMB",
+  "description": "Community utility token powered by Token-2022.",
+  "image": "https://raw.githubusercontent.com/Piah361/BOMB/refs/heads/main/BOMB.png",
+  "extensions": {
+    "website": "https://raytoken.org",
+    "twitter": "https://twitter.com/raytoken"
+  }
+}
